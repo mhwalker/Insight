@@ -1,0 +1,67 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+###Added by Matt###
+*.pyc
+*.pyo
+
+*.xml
+*.txt
+*.npy
+*.pkl
+*.pickle
+*.csv
+*.keras
+*.h5
+*.list
+*.weights
+
+*.json
+*.cfg
+
+*.jpg
+*.png
+
+.ipynb_checkpoints
+cfg
+data
+Annotation
+opencv
+petfinderImages
+opencv-haar-classifier-training
+
